@@ -13,7 +13,11 @@
 
 
 ## 서울특별시
-
+- 종류: 한식
+- 주소: 서울 마포구 마포대로14길 16
+- 추천메뉴: 내장곰탕
+- 특징: 40년 노포맛집
+- [지도 바로가기](https://map.naver.com/p/search/%EC%9B%90%EC%A1%B0%EC%8B%A0%EC%B4%8C%EC%84%A4%EB%A0%81%ED%83%95/place/18765327?c=15.00,0,0,0,dh&isCorrectAnswer=true)  
 
 ## 강원도
 
