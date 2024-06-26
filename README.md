@@ -58,7 +58,10 @@
 
 
 ## 인천광역시
-
+- 종류: 중식
+- 주소: 인천 남동구 소래역로 50 토성프라자 111호
+- 추천메뉴: 해신 쟁반짬뽕
+- [지도 바로가기](https://map.naver.com/p/entry/place/1800180036?lng=126.7343303&lat=37.4017424&placePath=%2Fhome&entry=plt&searchType=place&c=15.00,0,0,0,dh)
 
 ## 제주특별자치도
 
