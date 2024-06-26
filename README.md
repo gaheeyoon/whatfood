@@ -13,7 +13,11 @@
 
 
 ## 서울특별시
-
+### 정돈
+- 종류: 일식
+- 주소: 서울시
+- 추천메뉴: 안심 돈카츠
+- [지도 바로가기](https://map.naver.com/p/entry/place/37126807?lng=127.0011237&lat=37.5818016&placePath=%2Fhome&entry=plt&searchType=place)  ← 네이버 지도 또는 다음 지도를 추가해주세요.
 
 ## 강원도
 
