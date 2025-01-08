@@ -306,3 +306,10 @@
 - 주소: 제주도 제주시 수덕5길 66
 - 추천메뉴: 고등어회
 - [지도 바로가기](https://map.naver.com/p/search/%EC%95%84%EC%B9%A8%EB%B0%94%EB%8B%A4/place/21758125?placePath=?entry=pll&from=nx&fromNxList=true&searchType=place&c=15.00,0,0,0,dh) 
+
+## 부천시
+### 크라이치즈버거
+- 종류: 양식
+- 주소: 경기 부천시 원미구 신흥로52번길 35
+- 추천메뉴: 더블치즈버거
+- [지도 바로가기](https://map.naver.com/v5/entry/place/34105398?lng=126.7794102&lat=37.4881557&placePath=%2Fhome&entry=plt&searchType=place) 
