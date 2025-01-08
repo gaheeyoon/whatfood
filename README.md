@@ -273,6 +273,12 @@
 - 특징: 너무 맛있음
 - [지도 바로보기](https://map.naver.com/p/search/%EB%8C%80%EA%B5%AC%EA%B4%91%EC%97%AD%EC%8B%9C%20%EB%B0%98%EC%95%BC%EC%9B%94%20%EB%A7%89%EC%B0%BD/place/11732707?placePath=?entry=pll&from=nx&fromNxList=true&searchType=place)
 
+## 대전광역시
+### 속풀이 부추 칼국수
+- 종류: 칼국수
+- 주소: 대전 유성구 도안대로567번길 31
+- 추천메뉴: 바지락 칼국수, 황제보쌈
+- [지도 바로가기](https://naver.me/xOxnMnQd)
 
 ## 부산광역시
 ### 금영 돼지국밥
