@@ -305,4 +305,11 @@
 - 종류: 한식
 - 주소: 제주도 제주시 수덕5길 66
 - 추천메뉴: 고등어회
-- [지도 바로가기](https://map.naver.com/p/search/%EC%95%84%EC%B9%A8%EB%B0%94%EB%8B%A4/place/21758125?placePath=?entry=pll&from=nx&fromNxList=true&searchType=place&c=15.00,0,0,0,dh) 
+- [지도 바로가기](https://map.naver.com/p/search/%EC%95%84%EC%B9%A8%EB%B0%94%EB%8B%A4/place/21758125?placePath=?entry=pll&from=nx&fromNxList=true&searchType=place&c=15.00,0,0,0,dh)
+
+## 한국
+### 버거킹
+- 종류: 양식
+- 주소: 서울
+- 추천메뉴: 콰트로치즈와퍼
+- [지도 바로가기](https://map.naver.com/p/search/%EB%B2%84%EA%B1%B0%ED%82%B9?c=13.00,0,0,0,dh)
