@@ -306,3 +306,10 @@
 - 주소: 제주도 제주시 수덕5길 66
 - 추천메뉴: 고등어회
 - [지도 바로가기](https://map.naver.com/p/search/%EC%95%84%EC%B9%A8%EB%B0%94%EB%8B%A4/place/21758125?placePath=?entry=pll&from=nx&fromNxList=true&searchType=place&c=15.00,0,0,0,dh) 
+
+## 서울특별시
+### 동대문곱창
+- 종류: 한식
+- 주소: 서울 강서구 공항대로3길 29
+- 추천메뉴: 순대곱창
+- [지도 바로가기](https://naver.me/x0UsVnsj)
